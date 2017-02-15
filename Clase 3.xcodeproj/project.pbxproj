@@ -299,6 +299,7 @@
 				FBE3E1071E3ABEF8007B5B01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
